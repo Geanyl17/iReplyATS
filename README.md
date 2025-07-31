@@ -30,4 +30,8 @@ This system integrates with **Zoho** and **Airtable**, while also supporting app
    ```bash
    npm install
 
+3. **Run Server**
+   ```bash
+   npm run dev
+
 
