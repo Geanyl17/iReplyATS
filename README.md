@@ -29,6 +29,10 @@ This system integrates with **Zoho** and **Airtable**, while also supporting app
 2. **Install Dependencies**
    ```bash
    npm install
+   npm install @prisma/client
+   npm install prisma --save-dev
+   npx prisma init
+
 
 3. **Run Server**
    ```bash
