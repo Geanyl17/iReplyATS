@@ -29,6 +29,7 @@ This system integrates with **Zoho** and **Airtable**, while also supporting app
 2. **Install Dependencies**
    ```bash
    npm install
+   git push --set-upstream origin main
 
 3. **Run Server**
    ```bash
