@@ -45,8 +45,9 @@
 
 @theme {
   --color-black: #19181b;
-  --color-white: #e6e6e6;
+  --color-white: #ffffff;
   --color-primary-blue: #155dfc;
+  --color-primary-dark-blue: #033bb7;
   --color-dark-gray: #4b4950;
   --color-light-gray: #cbcace;
 }
@@ -59,7 +60,7 @@ body {
 
 :root {
   --radius: 0.625rem;
-  --background: oklch(1 0 0);
+  --background: var(--color-white);
   --foreground: oklch(0.145 0 0);
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.145 0 0);
