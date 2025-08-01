@@ -31,7 +31,7 @@ This system integrates with **Zoho** and **Airtable**, while also supporting app
    npm install
    npm install @prisma/client
    npm install prisma --save-dev
-   npx shadcn@latest init
+   npx shadcn@latest 
    copy .env.example as .env (this will serve as our unified database)
    
 
